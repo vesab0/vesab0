@@ -12,8 +12,8 @@ Studying Computer Science and Engineering at UBT
 
 **Backend:**  
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white) 
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white) 
