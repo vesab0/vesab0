@@ -25,6 +25,6 @@ Studying Computer Science and Engineering at UBT
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=white)  
-
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
 ##
 <sub> <img/> vesa.basha1@gmail.com &nbsp; | &nbsp;  <img/> Prishtine, Kosova </sub>
