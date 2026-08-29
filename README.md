@@ -4,8 +4,6 @@
 
 ### Full Stack Developer
 
-
-Working at Asaasin.ai  
 Studying Computer Science and Engineering at UBT  
 
 **My tech stack:**  
